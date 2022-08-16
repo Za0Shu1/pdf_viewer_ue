@@ -1,5 +1,5 @@
-# pdf_viewer_ue4
-A simple project supports to load pdf file in ue4 via web browser.
+# pdf_viewer_ue
+A simple project supports to load pdf file in unreal engine via web browser.
 
 You should place your pdf files into local server\apache-tomcat-9.0.64\webapps\pdf-viewer\pdfs , or you can create your own folder .
 
